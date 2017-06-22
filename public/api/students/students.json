@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Poindexter",
+    "graduationYear": "2016",
+    "gpa": "3.89",
+    "major": "Computer Science"
+  },
+  {
+    "id": 2,
+    "name": "Arthur Dent",
+    "graduationYear": "1978",
+    "gpa": "3.42",
+    "major": "Hitchhiking"
+  },
+  {
+    "id": 3,
+    "name": "The Doctor",
+    "graduationYear": "1963",
+    "gpa": "4.0",
+    "major": "Time Travel"
+  }
+]
